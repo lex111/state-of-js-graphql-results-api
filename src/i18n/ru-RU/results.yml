@@ -21,6 +21,12 @@ translations:
     - key: general.completion_percentage
       t: 'Процент заполнения:'
 
+    - key: partners.thanks
+      t: Спасибо нашим партнёрам за поддержку!
+
+    - key: partners.learn_more
+      t: Подробнее.
+
     ###########################################################################
     # Options
     ###########################################################################
@@ -80,6 +86,16 @@ translations:
 
     - key: sections.conclusion.title
       t: Заключение
+
+    - key: sections.support.title
+      t: Поддержите нас
+
+    - key: sections.support.description
+      t: >
+        Это волонтёрский проект, но для того, чтобы сделать его устойчивым,
+        мы всегда ищем партнёров, которые могут оказать нам финансовую поддержку или помочь распространить информацию.
+
+        Если вы хотите помочь нам, то, пожалуйста, не стесняйтесь [связаться с нами](mailto:hello@stateofjs.com)!
 
     ###########################################################################
     # User Info
@@ -302,6 +318,10 @@ translations:
     - key: export.graphql
       t: >
          Вы можете скопировать этот запрос, чтобы выполнить его в <a target="_blank" rel="nofollow" href="http://graphiql.stateofjs.com/">публичном API-сервере GraphQL</a>.
+
+    # Recommended Resources
+    - key: blocks.recommended_resources.title
+      t: Рекомендуемые ресурсы
 
     ###########################################################################
     # Charts
